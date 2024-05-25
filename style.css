@@ -3,7 +3,10 @@ body{
     background:darkgray;
     overflow:hidden;
     text-align:center;
-}
-#myCanvas{
+ }
+ #carCanvas{
     background:lightgray;
-}
+ }
+ #networkCanvas{
+    background:black;
+ }
